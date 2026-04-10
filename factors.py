@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))
+num = 12  # change this value
 
 print("Factors of", num, "are:")
 
