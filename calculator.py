@@ -1,5 +1,5 @@
-a = int(input("enter the first number:")
-b = int(input("enter the second number:")
+a = 20
+b = 10
 
 print("addition:",a+b)
 print("subtraction:",a-b)
