@@ -1,9 +1,7 @@
-import java.util.Scanner;
 public class Calculator{
   public static void main(String[] args){
-    Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
-    int b = sc.nextInt();
+    int a = 20;
+    int b = 10;
     System.out.println("Addition:"+(a+b));
     System.out.println("Subtraction:"+(a-b));
     System.out.println("Multiplication:"+(a*b));
